@@ -24,3 +24,16 @@
     font-size: 40px;
     color: rgb(55, 71, 43);
 }
+
+.code {
+    line-height: 1.5;
+    margin-left: -200px;
+}
+
+.experience a, .education  a {
+    text-decoration: none;
+}
+
+.english {
+    margin-bottom: 70px;
+}
