@@ -14,3 +14,26 @@ I am very interesting front-end development. **My main goal** is to get knowledg
 * HTML
 * CSS
 * Visual Studio Code
+
+**Code examples:**
+
+```javascript
+let calculator = {
+  sum() {
+    return (this.a + this.b);
+  },
+  mul() {
+    return (this.a * this.b);
+  },
+  read() {
+    this.a = + prompt("a?", 0);
+    this.b  = + prompt("b?", 0);
+  }
+};
+```
+
+**Experience:**
+
+1. [PortfolioTemplate](https://github.com/KseniyaYatskevich/PortfolioTemplate)
+
+2. [Dekora](https://github.com/KseniyaYatskevich/Dekora)
