@@ -41,9 +41,6 @@ let calculator = {
 
 2. [Dekora](https://github.com/KseniyaYatskevich/Dekora)
 
-3. [Simple-Piskel-clone](https://nostalgic-mahavira-053e8d.netlify.com/)
-
-
 **Educatuion:**
 
 * Graduated the Belarusian State Academy of Telecommunications (the Higher State College of Communication) in Minsk, faculty of Telecommunications, the department of Software telecommunication networks. Qualification is the the engineer of telecommunication.
