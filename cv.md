@@ -11,8 +11,11 @@ I am very interesting front-end development. **My main goal** is to get knowledg
 
 **Skills:**
 
+* JS
+* Git
 * HTML
 * CSS
+* SASS
 * Visual Studio Code
 
 **Code examples:**
@@ -38,6 +41,8 @@ let calculator = {
 
 2. [Dekora](https://github.com/KseniyaYatskevich/Dekora)
 
+3. [Simple-Piskel-clone](https://nostalgic-mahavira-053e8d.netlify.com/)
+
 
 **Educatuion:**
 
@@ -45,6 +50,8 @@ let calculator = {
 
 * HTML/CSS on [codecademy](https://www.codecademy.com/users/Kseniya_Ya/achievements)
 
+* RS School 2019Q3
+
 **English:**
 
-A2(Pre-Intermediate)
+A1(Pre-Intermediate)
